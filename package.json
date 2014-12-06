@@ -1,0 +1,15 @@
+{
+  "name": "TDD",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Rumery",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "jake-jshint": "0.0.4",
+    "jake": "~8.0.10"
+  }
+}
